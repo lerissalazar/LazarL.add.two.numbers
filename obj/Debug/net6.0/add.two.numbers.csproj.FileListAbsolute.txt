@@ -1,0 +1,15 @@
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\bin\Debug\net6.0\add.two.numbers.exe
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\bin\Debug\net6.0\add.two.numbers.deps.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\bin\Debug\net6.0\add.two.numbers.runtimeconfig.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\bin\Debug\net6.0\add.two.numbers.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\bin\Debug\net6.0\add.two.numbers.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.csproj.AssemblyReference.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.AssemblyInfoInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.AssemblyInfo.cs
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.csproj.CoreCompileInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\refint\add.two.numbers.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\add.two.numbers.genruntimeconfig.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\add.two.numbers\obj\Debug\net6.0\ref\add.two.numbers.dll
